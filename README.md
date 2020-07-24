@@ -1,2 +1,2 @@
-# ICP_PCL_C-
+# ICP
 For using pcl in ICP's parts
